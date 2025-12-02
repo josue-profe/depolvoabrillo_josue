@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwRQAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "hudLinea1"
+    },
+    "image2": {
+        "data": "hwQxADIAAAD/////////////////////////////////AAAA/////////////////////////////////wAAAP////////////////////////////////8AAAD/////////////////////////////////AAAA/////////////////////////////////wAAAP////////////////////////////////8AAAD///////////////8i/v//////////////AAAA/////////////y8iIiLy///+/////////wAAAP///////////yIiIiIiIvIv//////////8AAAD//////////y8iIiIiIiIi4v//////////AAAA//////////8iIkJEREJEIiLy/////////wAAAP///////y//IkJEIiIiQkQiIv////////8AAAD///////8uIkIkIiIiIiIiIiLy////////AAAA////////IkIkQkREQiQi7i4iIv7//////wAAAP//////7yJCIkQiJCIkIiLuIiLy//////8AAAD/////L+8iREJEREQiJCIi4i4i8v//////AAAA/////y8iIiREVFVEJEQiIiLuIvL//////wAAAP//////IkIkRFVVJCRCIiIi7i4i//////8AAAD//////yJCRFRVVUQiQiIiIuIuIvL/////AAAA/////y8iJERUVUVEQkQiIiLi/iL//////wAAAP////8vIiREVFVEJEIkIiIi4u4i//////8AAAD/////IkIkRERFJCRCJCIiIuLuIvL/////AAAA////LyJCJERFREQiQiQiIiLi7i4i/////wAAAP///y8iRCJEVUREIkIiIiLiIu4uIv////8AAAD///8vIkIiRFRFJEREIiIiLiLuLiLy////AAAA////LyJCIkJEJCJCIiIi7iLyLy4i8v///wAAAP////8iQiJCIiJCIiIi4i4i8i8uIv////8AAAD/////IkIiIkIiQiIiIu4iLv/iIvL/////AAAA/////y9CJCJCREIiIiLiIiL/8iLy/////wAAAP//////IiQiQiREIiIi4iIi//8i/v////8AAAD//////yIkIkJEIiIiIi4i4v8v4v//////AAAA/////+8iQiIiIiIiIi4iIu7/IvL//////wAAAP//////LyIkIiIi4iIi4vL/LyLy//////8AAAD//////y8iRCIiIi7iIuL+8iIi8v//////AAAA////////IkIiIuIu7u7u/+8iIv7//////wAAAP///////yIiIiIiIu7i7v4uIiLy//////8AAAD/////////IiIi4u7u7u7uIvL/8v//////AAAA////////L/IiIiLu7i4iIiL//////////wAAAP///////yL/LyIiIiIiIiLy//////////8AAAD///////////8vIiIiIiIi/v//////////AAAA/////////////y8iIiLy/////////////wAAAP//////////////IiL///////////////8AAAD/////////////////////////////////AAAA/////////////////////////////////wAAAP////////////////////////////////8AAAD/////////////////////////////////AAAA/////////////////////////////////wAAAP////////////////////////////////8AAAD/////////////////////////////////AAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "miImagen"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
